@@ -36,5 +36,3 @@ cd GitHub-Search-app
 Credits:
 GitHub API:used to fetch info and repositories
 
-License:
-MIT license
